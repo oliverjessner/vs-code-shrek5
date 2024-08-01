@@ -6,6 +6,7 @@
     "author": {
         "name": "oliverjessner"
     },
+    "publisher": "oliverjessner",
     "engines": {
         "vscode": "^1.91.0"
     },

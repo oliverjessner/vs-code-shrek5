@@ -1,7 +1,7 @@
 {
     "name": "Shrek 5",
     "colors": {
-        "window.activeBorder": "#b3c250",
+        "window.activeBorder": "#c25250",
         "window.inactiveBorder": "#7e8531",
 
         "activityBar.background": "#b3c250",
@@ -16,7 +16,7 @@
         "sideBar.background": "#b3c250",
         "sideBar.border": "#c6d527",
         "sideBar.foreground": "#86715c",
-        "sideBarSectionHeader.background": "#161616",
+        "sideBarSectionHeader.background": "#909090",
         "sideBarSectionHeader.border": "#b3c250",
         "sideBarSectionHeader.foreground": "#86715c",
         "sideBarTitle.foreground": "#86715c",
@@ -50,6 +50,13 @@
         "menubar.selectionBorder": "#b3c250",
         "menubar.selectionForeground": "#7e8531",
 
+        "statusBar.foreground": "#7e8531",
+        "statusBar.background": "#b3c250",
+        "statusBar.border": "#41d65a",
+        "statusBar.noFolderBackground": "#528a49",
+        "statusBar.debuggingBackground": "#884c41",
+        "statusBar.debuggingForeground": "#67ff01",
+
         "terminal.ansiBlack": "#7e8531",
         "terminal.ansiBlue": "#b3c250",
         "terminal.ansiBrightBlack": "#7e8531",
@@ -74,6 +81,10 @@
         "titleBar.border": "#b3c250",
         "titleBar.inactiveBackground": "#7e8531",
         "titleBar.inactiveForeground": "#161616",
+
+        "peekViewEditor.matchHighlightBackground": "#7e8531",
+        "peekViewResult.matchHighlightBackground": "#b3c250",
+        "peekViewEditor.background": "#7e8531",
 
         "editor.background": "#b3c250",
         "editor.findMatchBackground": "#86715c",
@@ -118,7 +129,14 @@
         "editorWidget.border": "#b3c250",
         "editorWidget.resizeBorder": "#86715c",
 
-        "list.activeSelectionIconForeground": "#b3c250"
+        "list.hoverForeground": "#86715c",
+        "list.inactiveSelectionForeground": "#b3c250",
+        "list.activeSelectionForeground": "#b3c250",
+        "list.hoverBackground": "#b3c250",
+        "list.inactiveSelectionBackground": "#b3c250",
+        "list.activeSelectionBackground": "#04ff00",
+        "list.inactiveFocusBackground": "#000306",
+        "list.focusBackground": "#048913"
     },
     "tokenColors": [
         {
@@ -169,7 +187,7 @@
             "name": "Types",
             "scope": ["storage.type", "support.type"],
             "settings": {
-                "foreground": "#d4904c"
+                "foreground": "#e00013"
             }
         },
         {
