@@ -2,10 +2,11 @@
     "name": "shrek5",
     "displayName": "Shrek 5",
     "description": "Best theme ever",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "oliverjessner"
     },
+    "icon": "imgs/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/oliverjessner/vs-code-shrek5"
@@ -13,6 +14,9 @@
     "publisher": "oliverjessner",
     "engines": {
         "vscode": "^1.91.0"
+    },
+    "scripts": {
+        "package": "vsce package"
     },
     "categories": [
         "Themes"
