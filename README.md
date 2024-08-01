@@ -2,4 +2,4 @@
 
 The best theme for vscode:
 
-![vscode](ims/vscode.png)
+![vscode](imgs/vscode.png)
