@@ -6,6 +6,10 @@
     "author": {
         "name": "oliverjessner"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oliverjessner/vs-code-shrek5"
+    },
     "publisher": "oliverjessner",
     "engines": {
         "vscode": "^1.91.0"
