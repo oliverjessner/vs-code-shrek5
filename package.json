@@ -1,0 +1,24 @@
+{
+    "name": "shrek5",
+    "displayName": "Shrek 5",
+    "description": "Best theme ever",
+    "version": "0.0.1",
+    "author": {
+        "name": "oliverjessner"
+    },
+    "engines": {
+        "vscode": "^1.91.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shrek 5",
+                "uiTheme": "vs",
+                "path": "./themes/Shrek 5-color-theme.json"
+            }
+        ]
+    }
+}
